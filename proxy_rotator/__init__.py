@@ -1,0 +1,1 @@
+from .proxy_rotator import fetch_items

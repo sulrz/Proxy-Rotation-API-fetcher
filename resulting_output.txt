@@ -1,0 +1,198 @@
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sawed-Off%20|%20Forest%20DDPAT%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '1,061', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Fracture%20Case
+output: {'success': True, 'lowest_price': '$0.20', 'volume': '110,777', 'median_price': '$0.21'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20Backstab%20(Jungle%20Green)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '70', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Dreams%20&%20Nightmares%20Case
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20Eat%20It%20(War%20Pig%20Pink)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '111', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Snakebite%20Case
+output: {'success': True, 'lowest_price': '$0.15', 'volume': '72,876', 'median_price': '$0.15'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20GGEZ%20(Bazooka%20Pink)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '130', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20Lambda%20(Monarch%20Blue)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '62', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sawed-Off%20|%20Forest%20DDPAT%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '1,362', 'median_price': '$0.04'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Fracture%20Case
+output: {'success': True, 'lowest_price': '$0.15', 'volume': '89,430', 'median_price': '$0.14'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20Backstab%20(Jungle%20Green)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '65', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Dreams%20&%20Nightmares%20Case
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20Eat%20It%20(War%20Pig%20Pink)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '86', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Clutch%20Case
+output: {'success': True, 'lowest_price': '$0.35', 'volume': '91,838', 'median_price': '$0.35'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20Speechless%20(War%20Pig%20Pink)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20X-Axes%20(War%20Pig%20Pink)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '109', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Snakebite%20Case
+output: {'success': True, 'lowest_price': '$0.13', 'volume': '64,701', 'median_price': '$0.13'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20GGEZ%20(Bazooka%20Pink)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '120', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20Lambda%20(Monarch%20Blue)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '64', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Nova%20|%20Polar%20Mesh%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '1,182', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Dual%20Berettas%20|%20Stained%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.11', 'volume': '362', 'median_price': '$0.09'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=AWP%20|%20PAW%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$1.69', 'volume': '486', 'median_price': '$1.64'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=StatTrak™%20Glock-18%20|%20Off%20World%20(Battle-Scarred)
+output: {'success': True, 'lowest_price': '$0.46', 'volume': '139', 'median_price': '$0.42'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20Eye%20Spy%20(Princess%20Pink)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '58', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=AUG%20|%20Storm%20(Minimal%20Wear)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '651', 'median_price': '$0.04'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Nova%20|%20Mandrel%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '1,226', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=MP5-SD%20|%20Dirt%20Drop%20(Minimal%20Wear)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '461', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20Death%20Sentence%20(Monarch%20Blue)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '92', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=M4A1-S%20|%20Boreal%20Forest%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.20', 'volume': '2,274', 'median_price': '$0.20'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20GTG%20(Battle%20Green)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '76', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20Quickdraw%20(Brick%20Red)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '45', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20Death%20Sentence%20(Frog%20Green)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20QQ%20(Battle%20Green)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '44', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=UMP-45%20|%20Facility%20Dark%20(Minimal%20Wear)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '828', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=AK-47%20|%20Orbit%20Mk01%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$10.07', 'volume': '94', 'median_price': '$9.68'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=P90%20|%20Sand%20Spray%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '1,796', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Galil%20AR%20|%20Cold%20Fusion%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.10', 'volume': '856', 'median_price': '$0.09'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=UMP-45%20|%20Urban%20DDPAT%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '1,381', 'median_price': '$0.03'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20Loser%20(Dust%20Brown)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '85', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20Quickdraw%20(SWAT%20Blue)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=FAMAS%20|%20Colony%20(Minimal%20Wear)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '579', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=AUG%20|%20Sweeper%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '1,214', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Desert%20Eagle%20|%20Blue%20Ply%20(Minimal%20Wear)
+output: {'success': True, 'lowest_price': '$0.17', 'volume': '891', 'median_price': '$0.17'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Sealed%20Graffiti%20|%20Worry%20(Tiger%20Orange)
+output: {'success': True, 'lowest_price': '$0.03', 'volume': '66', 'median_price': '$0.01'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20Quickdraw%20(Battle%20Green)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20King%20Me%20(Wire%20Blue)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20Popdog%20(Cash%20Green)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20Backstab%20(Blood%20Red)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=2021%20Service%20Medal
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20Tombstone%20(Desert%20Amber)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Galil%20AR%20|%20Sage%20Spray%20(Minimal%20Wear)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '682', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20GGEZ%20(Brick%20Red)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=SSG%2008%20|%20Blue%20Spruce%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '1,818', 'median_price': '$0.04'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=M4A4%20|%20Magnesium%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.09', 'volume': '884', 'median_price': '$0.08'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=MP9%20|%20Modest%20Threat%20(Battle-Scarred)
+output: {'success': True, 'lowest_price': '$0.08', 'volume': '193', 'median_price': '$0.07'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=AWP%20|%20Safari%20Mesh%20(Battle-Scarred)
+output: {'success': True, 'lowest_price': '$0.25', 'volume': '1,306', 'median_price': '$0.25'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20Eat%20It%20(Blood%20Red)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20Heart%20(Princess%20Pink)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Galil%20AR%20|%20Sage%20Spray%20(Field-Tested)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '1,647', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=MP7%20|%20Urban%20Hazard%20(Battle-Scarred)
+output: {'success': True, 'volume': '23', 'median_price': '$0.09'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Tec-9%20|%20Urban%20DDPAT%20(Minimal%20Wear)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '510', 'median_price': '$0.02'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20Take%20Flight%20(Monster%20Purple)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=G3SG1%20|%20Jungle%20Dashed%20(Minimal%20Wear)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '529', 'median_price': '$0.04'}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%208-Ball%20(Princess%20Pink)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Graffiti%20|%20Heart%20(Dust%20Brown)
+output: {'success': False}
+
+url: https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=Nova%20|%20Polar%20Mesh%20(Minimal%20Wear)
+output: {'success': True, 'lowest_price': '$0.04', 'volume': '449', 'median_price': '$0.02'}
+
